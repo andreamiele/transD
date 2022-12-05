@@ -2,7 +2,7 @@
 <h1 align="left">Fraction Island</h1>
 
 ## About The Project
-
+Unity game to help dyscalculic students learn fractions.
 
 ## Getting Started
 

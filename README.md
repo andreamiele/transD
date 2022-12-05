@@ -14,5 +14,5 @@ Unity game to help dyscalculic students learn fractions.
 
 ## Report
 You can find the report we did about this project </br>
-[French version]() </br>
+[French version](https://github.com/andreamiele/transD/tree/main/Report/FR) </br>
 [English version]() *in translation*
